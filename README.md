@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Belal Ali
+- I’m @Belal Ali
 - 👀 I’m interested in Analog IC design
 - 🌱 I’m currently learning Analog/Mixed,RF IC design
 - 💞️ I’m looking to collaborate on Analog IC design field
